@@ -1,0 +1,3 @@
+minimum vertex cover size: 4022
+execution time: 0.024055004119873047 seconds
+peak memory usage was 0.816159MB

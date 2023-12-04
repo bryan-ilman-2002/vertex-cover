@@ -1,0 +1,4 @@
+minimum vertex cover size: 38
+execution time: 8.349978685379028 seconds
+peak memory usage was 0.115656MB
+vertices: 1, 17, 2, 40, 38, 52, 7, 28, 16, 8, 5, 3, 19, 22, 62, 4, 10, 33, 13, 54, 26, 14, 25, 39, 69, 80, 47, 77, 94, 59, 83, 24, 51, 15, 31, 35, 6, 12

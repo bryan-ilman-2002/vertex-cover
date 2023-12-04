@@ -1,0 +1,5 @@
+node count: 4
+1's neighbor(s): 2, 3
+2's neighbor(s): 1
+3's neighbor(s): 1, 4
+4's neighbor(s): 3
